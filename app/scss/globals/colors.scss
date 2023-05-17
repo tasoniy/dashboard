@@ -1,6 +1,6 @@
 :root {
   --limegreen:hsl(163,72%, 41%);
-  --bright: hsl(356, 69%, 56%);
+  --brightred: hsl(356, 69%, 56%);
   --facebook: hsl(208, 92%,53%);
   --twitter: hsl(203, 89%, 53%);
   --instagram-start: hsl(37, 97%, 70%);
@@ -19,4 +19,5 @@
   --light-card: hsl(227, 47%, 96%);
   --light-text1: hsl(228, 12%, 44%);
   --light-text2: hsl(230, 17%, 14%);
+  --instagram: linear-gradient(225deg, #df4896 0%, #ee877e 50.91%, #fdc366 100%);
 }
